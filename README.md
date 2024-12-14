@@ -37,8 +37,7 @@ This project includes a target shooting game running on the Arduino platform. Th
 
 Found a problem with our project? Please let me know! [Report issues here](https://github.com/abdullah-tanriverdi/ShootingRangeArduino/issues).
 
-  ## Communication
-E-posta: tanriverdi.firatuni@gmail.com
+
 
 
 
